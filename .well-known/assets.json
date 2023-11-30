@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.achisomoch.clients.debug",
+      "sha256_cert_fingerprints":
+      ["48:BC:5A:46:D9:09:F8:B0:31:7F:9A:D8:E2:4B:AC:4A:FD:B5:28:C7:A7:A9:E5:4A:A2:F1:47:31:3F:A1:3E:42"]
+    }
+  }]
